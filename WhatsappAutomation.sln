@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WhatsappAutomation", "WhatsappAutomation.csproj", "{B7B5D586-B943-4AC4-96A5-D62EC3437D32}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7B5D586-B943-4AC4-96A5-D62EC3437D32}.Debug|x64.ActiveCfg = Debug|x64
+		{B7B5D586-B943-4AC4-96A5-D62EC3437D32}.Debug|x64.Build.0 = Debug|x64
+		{B7B5D586-B943-4AC4-96A5-D62EC3437D32}.Debug|x86.ActiveCfg = Debug|x86
+		{B7B5D586-B943-4AC4-96A5-D62EC3437D32}.Debug|x86.Build.0 = Debug|x86
+		{B7B5D586-B943-4AC4-96A5-D62EC3437D32}.Release|x64.ActiveCfg = Release|x64
+		{B7B5D586-B943-4AC4-96A5-D62EC3437D32}.Release|x64.Build.0 = Release|x64
+		{B7B5D586-B943-4AC4-96A5-D62EC3437D32}.Release|x86.ActiveCfg = Release|x86
+		{B7B5D586-B943-4AC4-96A5-D62EC3437D32}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B1E97FE-438B-4B7C-A58F-3A11C54F11E8}
+	EndGlobalSection
+EndGlobal
