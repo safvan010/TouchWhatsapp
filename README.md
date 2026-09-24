@@ -12,8 +12,7 @@ A desktop Windows Forms application in C# that embeds WhatsApp Web via **CefShar
     - Line 1: SQL Server Instance (e.g. `DELL\SQL2008R2`)
     - Line 2: Database Name (e.g. `_CODE_`)
   - Fixed Credentials configured:
-    - User: `Touchone`
-    - Password: `TouchOne$@454r54%a4`
+
   - "Test Connection" button to verify SQL connectivity directly from the UI.
 
 ### 2. Automated Sales Messaging Queue (Every 10 Seconds)
